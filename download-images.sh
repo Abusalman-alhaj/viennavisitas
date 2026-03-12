@@ -1,0 +1,22 @@
+# Run this in your terminal inside your project folder
+mkdir -p public/images
+
+curl -L "https://images.unsplash.com/photo-1519677100203-a0e668c92439?w=1920&q=85&auto=format&fit=crop" -o "public/images/hero.jpg"
+curl -L "https://images.unsplash.com/photo-1764726202109-901d45d51d97?w=1200&q=85&auto=format&fit=crop" -o "public/images/explore-things-to-do.jpg"
+curl -L "https://images.unsplash.com/photo-1648501910342-5332f255c12b?w=1200&q=85&auto=format&fit=crop" -o "public/images/explore-places.jpg"
+curl -L "https://images.unsplash.com/photo-1762186951588-fc3b2199b46d?w=1200&q=85&auto=format&fit=crop" -o "public/images/explore-vienna-guide.jpg"
+curl -L "https://images.unsplash.com/photo-1765285334105-51138554daa5?w=1200&q=85&auto=format&fit=crop" -o "public/images/explore-gallery.jpg"
+curl -L "https://images.unsplash.com/photo-1764470409267-a61d17f3b070?w=1200&q=85&auto=format&fit=crop" -o "public/images/explore-inspired.jpg"
+curl -L "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=1200&q=85&auto=format&fit=crop" -o "public/images/service-photography.jpg"
+curl -L "https://images.unsplash.com/photo-1601506521793-dc748fc80b67?w=1200&q=85&auto=format&fit=crop" -o "public/images/service-videography.jpg"
+curl -L "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=1200&q=85&auto=format&fit=crop" -o "public/images/service-tourism.jpg"
+curl -L "https://images.unsplash.com/photo-1707998982041-1b72118e4c7d?w=1200&q=85&auto=format&fit=crop" -o "public/images/gallery-cityscape-1.jpg"
+curl -L "https://images.unsplash.com/photo-1755851238871-8c751d3a02e0?w=1200&q=85&auto=format&fit=crop" -o "public/images/gallery-imperial-1.jpg"
+curl -L "https://images.unsplash.com/photo-1584570726087-41122046f48e?w=1200&q=85&auto=format&fit=crop" -o "public/images/gallery-architecture-1.jpg"
+curl -L "https://images.unsplash.com/photo-1707998982473-30d34c413bff?w=1200&q=85&auto=format&fit=crop" -o "public/images/gallery-gardens-1.jpg"
+curl -L "https://images.unsplash.com/photo-1672681643464-2bc470e49498?w=1200&q=85&auto=format&fit=crop" -o "public/images/gallery-seasonal-1.jpg"
+curl -L "https://images.unsplash.com/photo-1625824827744-9a4878ed44c9?w=1200&q=85&auto=format&fit=crop" -o "public/images/gallery-markets-1.jpg"
+curl -L "https://images.unsplash.com/photo-1743784083194-b8b601dc8526?w=1200&q=85&auto=format&fit=crop" -o "public/images/gallery-street-1.jpg"
+curl -L "https://images.unsplash.com/photo-1709363144503-69ba61c79dc1?w=1200&q=85&auto=format&fit=crop" -o "public/images/gallery-cityscape-2.jpg"
+curl -L "https://images.unsplash.com/photo-1676830888800-56ca20c4943d?w=1200&q=85&auto=format&fit=crop" -o "public/images/gallery-imperial-2.jpg"
+curl -L "https://images.unsplash.com/photo-1707998983171-b8dc42fd599e?w=1200&q=85&auto=format&fit=crop" -o "public/images/gallery-architecture-2.jpg"
